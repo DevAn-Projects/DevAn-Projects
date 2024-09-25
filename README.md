@@ -16,7 +16,7 @@
 
 Soy un desarrollador Junior con una gran pasión por la programación y un fuerte deseo de aprender y crecer en este emocionante campo. Mi objetivo es dejar mi marca personal en cada proyecto, reflejando mi filosofía:
 
-**"Donde la creatividad cobra vida"**
+<h3>"Donde la creatividad cobra vida"</h3>
 
 ### 🌐 Especialización
 Me especializo en el desarrollo web, creando aplicaciones eficientes y funcionales que brindan experiencias únicas a los usuarios. Mi enfoque es combinar la lógica de programación con un toque creativo para lograr resultados sobresalientes.
