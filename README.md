@@ -1,10 +1,27 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="#">DevAn</a> 👋</h1>
+<h1 align="center">¡Hola! Soy Ángel, pero me conocen como **DevAn** 👋</h1>
 </div>
 
 <div align="center">
 <img src="./Nunito.png" alt="Banner" >
 </div>
+
+# 💡 Acerca de mí:
+<p> ¡Hola! Soy Ángel, pero me conocen como DevAn 👨‍💻✨<br>Soy un desarrollador Junior con una gran pasión por la programación y un fuerte deseo de aprender y crecer en este emocionante campo. Mi objetivo es dejar mi marca personal en cada proyecto, reflejando mi filosofía: "Donde la creatividad cobra vida".<br><br>Me especializo en el desarrollo web, creando aplicaciones eficientes y funcionales que brindan experiencias únicas a los usuarios. Mi enfoque es combinar la lógica de programación con un toque creativo para lograr resultados sobresalientes.<br><br>Siempre estoy abierto a colaborar, aprender de otros y enfrentar nuevos desafíos. Si buscas a alguien con entusiasmo, motivación y la disposición para contribuir en tus proyectos, ¡estoy aquí para hacer que suceda! </p>
+
+## 👋 ¡Hola! Soy Ángel, pero me conocen como **DevAn** 👨‍💻✨
+
+Soy un desarrollador Junior con una gran pasión por la programación y un fuerte deseo de aprender y crecer en este emocionante campo. Mi objetivo es dejar mi marca personal en cada proyecto, reflejando mi filosofía:
+
+**"Donde la creatividad cobra vida"**
+
+### 🌐 Especialización
+Me especializo en el desarrollo web, creando aplicaciones eficientes y funcionales que brindan experiencias únicas a los usuarios. Mi enfoque es combinar la lógica de programación con un toque creativo para lograr resultados sobresalientes.
+
+### 🚀 ¿Por qué yo?
+Siempre estoy abierto a colaborar, aprender de otros y enfrentar nuevos desafíos. Si buscas a alguien con entusiasmo, motivación y la disposición para contribuir en tus proyectos, ¡estoy aquí para hacer que suceda!
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
