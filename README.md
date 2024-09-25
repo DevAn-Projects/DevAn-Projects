@@ -7,10 +7,12 @@
 <img src="./Nunito.png" alt="Banner" >
 </div>
 
-# 💡 Acerca de mí:
-<p> ¡Hola! Soy Ángel, pero me conocen como DevAn 👨‍💻✨<br>Soy un desarrollador Junior con una gran pasión por la programación y un fuerte deseo de aprender y crecer en este emocionante campo. Mi objetivo es dejar mi marca personal en cada proyecto, reflejando mi filosofía: "Donde la creatividad cobra vida".<br><br>Me especializo en el desarrollo web, creando aplicaciones eficientes y funcionales que brindan experiencias únicas a los usuarios. Mi enfoque es combinar la lógica de programación con un toque creativo para lograr resultados sobresalientes.<br><br>Siempre estoy abierto a colaborar, aprender de otros y enfrentar nuevos desafíos. Si buscas a alguien con entusiasmo, motivación y la disposición para contribuir en tus proyectos, ¡estoy aquí para hacer que suceda! </p>
+<br>
 
-## 👋 ¡Hola! Soy Ángel, pero me conocen como **DevAn** 👨‍💻✨
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dev.an.01?igsh=eDVyN3IzaHg4a3Zr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/angelnietodevan/)
+
+<h2>💡 Acerca de mí:</h2> 
+
 
 Soy un desarrollador Junior con una gran pasión por la programación y un fuerte deseo de aprender y crecer en este emocionante campo. Mi objetivo es dejar mi marca personal en cada proyecto, reflejando mi filosofía:
 
