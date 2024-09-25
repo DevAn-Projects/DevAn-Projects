@@ -39,13 +39,10 @@ Siempre estoy abierto a colaborar, aprender de otros y enfrentar nuevos desafío
 </p>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevAn-Projects&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevAn-Projects&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAn-Projects&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## Hi there 👋
+
+
 
 <!--
 **DevAn-Projects/DevAn-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
