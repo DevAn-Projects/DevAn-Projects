@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://aristi.dev">DevAn</a> 👋</h1>
 </div>
 
-<img src="./Nunito.png" alt="Descripción de la imagen" width="900">
+<img src="./Nunito.png" alt="Descripción de la imagen" width="800">
 
 
 ### ⚙️ &nbsp;GitHub Analytics
