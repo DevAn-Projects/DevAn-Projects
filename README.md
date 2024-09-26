@@ -62,17 +62,29 @@ Siempre estoy abierto a colaborar, aprender de otros y enfrentar nuevos desafío
       style="display: inline-block; vertical-align: top; margin-right: 10px;"
     />
   </picture>
-  <a href="https://github.com/DevAn-Projects">
+<!--   <a href="https://github.com/DevAn-Projects">
     <img height="180em" 
          src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevAn-Projects&layout=compact&langs_count=8&theme=algolia"
+         alt="Top Languages"
+         style="display: inline-block; vertical-align: top;"
+    />
+  </a> -->
+
+  <a href="https://github.com/DevAn-Projects">
+    <img height="180em" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAn-Projects&layout=compact&langs_count=8&theme=algolia"
          alt="Top Languages"
          style="display: inline-block; vertical-align: top;"
     />
   </a>
 </p>
 
+
+
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=DevAn-Projects&label=Vistas%20de%20perfil&color=1&icon=0&pretty=true" />
+
 </a>
 
 
