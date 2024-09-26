@@ -84,7 +84,6 @@ Siempre estoy abierto a colaborar, aprender de otros y enfrentar nuevos desafío
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=DevAn-Projects&label=Vistas%20de%20perfil&color=1&icon=0&pretty=true" />
-
 </a>
 
 
