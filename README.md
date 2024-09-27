@@ -19,10 +19,12 @@ Soy un desarrollador Junior con una gran pasión por la programación y un fuert
 <h3 align="center">"Donde la creatividad cobra vida"</h3>
 
 ### 🌐 Especialización
-Me especializo en el desarrollo web, creando aplicaciones eficientes y funcionales que brindan experiencias únicas a los usuarios. Mi enfoque es combinar la lógica de programación con un toque creativo para lograr resultados sobresalientes.
+Me especializo en el desarrollo web, creando aplicaciones eficientes y funcionales que brindan experiencias únicas a los usuarios. Mi enfoque es combinar la lógica de programación con un toque creativo para lograr resultados visuales sobresalientes.
 
 ### 🚀 ¿Por qué yo?
 Siempre estoy abierto a colaborar, aprender de otros y enfrentar nuevos desafíos. Si buscas a alguien con entusiasmo, motivación y la disposición para contribuir en tus proyectos, ¡estoy aquí para hacer que suceda!
+
+
 
 <h2>💻 Tech Stack:</h2> 
 
